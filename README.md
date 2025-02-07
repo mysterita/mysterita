@@ -23,3 +23,5 @@ focusing on full-stack development and cloud computing.
 - LinkedIn: https://www.linkedin.com/in/mariia-kazachkina-a944665b
 - Email: mariamysworld@gmail.com
 - Portfolio: [Coming Soon]
+
+updated
