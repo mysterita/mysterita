@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Mariia Kazachkina 👋
+## Aspiring Software Developer | Computer Science Student
 
-<!--
-**mysterita/mysterita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science at San Jose City College,
+focusing on full-stack development and cloud computing.
 
-Here are some ideas to get you started:
+### Current Projects
+- Building a weather tracking application using React and Node.js
+- Contributing to open-source documentation projects
+- Developing a student resource management system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently learning
+- HTML, CSS, and JavaScript
+- PHP and MySQL
+- Git and GitHub workflows
+
+### Technical Skills
+- Languages: Python, Java, C++, HTML, CSS, JavaScript (learning)
+- Tools: VS Code, MAMP, Git
+- Concepts: Web Development, Database Design
+
+### How to reach me
+- LinkedIn: https://www.linkedin.com/in/mariia-kazachkina-a944665b
+- Email: mariamysworld@gmail.com
+- Portfolio: [Coming Soon]
