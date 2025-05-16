@@ -1,5 +1,5 @@
 
-# Hello, I'm Mariia Kazachkina 👋  
+# Hello, I'm Maria Kozhevnikova 👋  
 ## Aspiring Web Developer | Computer Science Student
 
 I'm currently studying Computer Science at San Jose City College, focusing on full-stack development, PHP, and MySQL. I'm passionate about building inclusive, accessible web experiences and learning the tools that make modern development efficient and user-friendly.
@@ -65,7 +65,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 ---
 
 ### 📬 How to reach me  
-- [LinkedIn: Mariia Kazachkina](https://www.linkedin.com/in/mariia-kazachkina/)  
+- [LinkedIn: Maria Kozhevnikova](https://www.linkedin.com/in/maria--kozhevnikova/)  
 - 📧 mariamysworld@gmail.com  
 
 
