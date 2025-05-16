@@ -65,7 +65,7 @@ I'm currently studying Computer Science at San Jose City College, focusing on fu
 ---
 
 ### 📬 How to reach me  
-- [LinkedIn: Mariia Kazachkina](https://www.linkedin.com/in/mariia-kazachkina/)  
+- [LinkedIn: Maria Kozhevnikova](https://www.linkedin.com/in/maria--kozhevnikova/)  
 - 📧 mariamysworld@gmail.com  
 
 
